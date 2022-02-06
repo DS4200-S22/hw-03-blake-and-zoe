@@ -35,10 +35,6 @@ body {
   justify-content: space-evenly;
 }
 
-.shape {
-  margin: 1em;
-}
-
 .shape:hover {
   filter: brightness(0.65);
 }
